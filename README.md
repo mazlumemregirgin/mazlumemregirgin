@@ -5,9 +5,6 @@
   
 ## About Me ##
 
-  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=mazlumemregirgin&show_icons=true&theme=radical)
-  
-  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazlumemregirgin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mazlumemregirgin&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!---
