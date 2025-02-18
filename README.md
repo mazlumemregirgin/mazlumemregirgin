@@ -6,7 +6,7 @@
 ## About Me ##
 
 
-  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mazlumemregirgin&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mazlumemregirgin&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <!---
 mazlumemregirgin/mazlumemregirgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
