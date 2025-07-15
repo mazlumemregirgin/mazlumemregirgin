@@ -3,7 +3,7 @@
  # Hi, I’m @mazlumemregirgin 👋 #
 - I am a software engineering student at Mugla Sitki Kocman University.
  ![](https://komarev.com/ghpvc/?username=mazlumemregirgin)
-![](https://visitor-badge.laobi.icu/badge?page_id=mazlumemregirgin)  
+
 ## About Me ##
 
 
