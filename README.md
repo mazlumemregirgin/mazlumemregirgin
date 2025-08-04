@@ -61,6 +61,6 @@ I also contribute to open-source projects under the **commonCodeBase** organizat
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/mazlumemregirgin](https://linkedin.com/in/mazlumemregirgin)  
+- **LinkedIn:** [linkedin.com/in/mazlumemregirgin](https://linkedin.com/in/mazlum-emre-girgin)  
 - **Email:** mazlumemregirgin@msn.com
 
