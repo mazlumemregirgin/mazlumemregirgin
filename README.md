@@ -15,6 +15,7 @@ Recently, I've been diving deeper into **Docker**, **Kubernetes**, and **Microse
 I'm also curious about **AI-powered applications** and currently working on projects that involve **secure coding exam platforms** and **AI-driven solutions** for practical use cases.
 
 I also contribute to open-source projects under the **commonCodeBase** organization, where we build reusable and community-driven software components.
+[For more information, visit the official website of the CommonCodeBase organization.](https://commoncodebase.org/)
 
 ---
 
