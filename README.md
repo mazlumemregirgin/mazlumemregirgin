@@ -41,8 +41,8 @@ I am a passionate **Software Engineering** student dedicated to building robust 
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** `Go`, `Java`, `Python`, `C#`
-- **Backend:** `Spring Boot`, `Gin/Fiber`, `Django`, `ASP.NET Core`
+- **Languages:** `Go`, `Java`, `Python`
+- **Backend:** `Spring Boot`, `Fiber`, `Django`
 - **Infrastructure:** `Docker`, `Redis`, `PostgreSQL`, `Nginx`, `Docker Swarm`
 - **Tools:** `Git`, `CI/CD`, `Linux`
 
