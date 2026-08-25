@@ -50,32 +50,5 @@ I'm a backend-focused 4th Year Software Engineering student who enjoys designing
 
 ---
 
-## 🌍 Community & Leadership
-
-- **Founder & Chair, MSKU ACM Student Chapter** *(Aug 2026 – Present)* — founded MSKU's first-ever ACM student chapter and am building its founding roadmap: membership, events, and faculty/industry partnerships.
-- **Chair, MSKU Data Science Community** *(Sep 2025 – Jun 2026)* — led the core team and cross-functional project groups; organized **VBT Smart Cities Hackathon '26**, Muğla's first 24-hour continuous hackathon, securing sponsorship from the Muğla Planning Agency (MUPA); curated the *"From Academy to Industry"* speaker series with Hudl and Etiya; co-organized the *"Philosophy and Algorithm"* panel with the philosophy department.
-- **Co-Founder & Backend Lead, CommonCodeBase** *(Jan 2025 – Present)* — co-founded an open-source org building secure developer tools, leading development on **CORE**.
-
----
-
-## 🚀 Selected Projects
-
-**Tarladan** · `Java` `Spring Boot` `Docker Swarm` `Azure` `Redis`
-End-to-end digital marketplace connecting farmers directly to buyers. Led a 3-person team as Backend Lead, architected a Modular Monolith with DDD, built a DevOps pipeline deploying to Azure via Docker Swarm, added Redis caching and distributed rate limiting, and secured APIs with JWT + NGINX/TLS. 
-
-**Real-Time Collaborative Comment System** · `PHP` `MySQL` `Node.js/Socket.IO` `PHPUnit`
-Backend module built for Jotform's Form Builder platform enabling threaded @mention comments and live multi-user collaboration. Includes a layered REST API, an event-driven notification pipeline with an async MySQL-backed mail queue, a Socket.IO real-time microservice bridged to PHP, and a 97-test PHPUnit suite. *(Proprietary — code not public)*
-
-**Eyelid Ptosis Diagnosis App** · `Go` `Fiber` `Docker` `Redis`
-Backend services for a mobile AI-powered eye disease detection platform, built with an MVC architecture, Redis caching, and JWT auth with token rotation. *(Proprietary software)*
-
-**CORE: Containerized Offline Review Environment** · `Django` `Docker`
-A CommonCodeBase platform for secure, LLM-free coding exams — containerized deployment with a focus on maintainable architecture.
-
 📄 More on my [portfolio](https://mazlumemregirgin.github.io/mazlumemre.github.io/) · ✍️ Technical write-ups on [Medium](https://medium.com/@mazlumemregirgin)
 
----
-
-<div align="center">
-  <i>"Always curious, constantly learning."</i>
-</div>
